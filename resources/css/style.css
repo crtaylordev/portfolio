@@ -30,7 +30,7 @@ body {
     flex-wrap: nowrap;
     height: auto;
     min-height: 100%;
-    max-width: 60rem;
+    max-width: 62rem;
     min-width: 16rem;
     padding: 0 1rem;
     margin: 0 auto;
@@ -72,7 +72,7 @@ body {
 }
   
 .intro-content {
-    max-width: 60rem;
+    max-width: 62rem;
 }
 
 /* Featured Projects*/
