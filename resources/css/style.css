@@ -59,10 +59,10 @@ h1, a {
 /* Colors */
 
 :root {
-    --primary-color: tomato;
+    --primary-color: darkmagenta;
     --accent-color: seagreen;
     --black-ish: rgb(20, 20, 20);
-    --neutral-color: rgb(237, 237, 237);
+    --neutral-color: rgb(235, 235, 235);
 }
 
 /* Intro Section (Header) */
